@@ -2,13 +2,13 @@
 
 ## Overview 
 
-We are a marketing consulting company named Emo-Vector LLC that specializes in marketing insights derived from emotion. We aim to expand the reach of emerging Asian consumer electronics companies such as Samsung, Xiaomi, Oppo, and Vivo by utilizing targeted online advertising. We hope to use the power of big data to create a model that can swiftly and efficiently target consumers who have non-positive emotions towards brand competitors such as Apple and Google. 
+We are a marketing consulting company named Emo-Vector LLC that specializes in marketing insights derived from emotion. We aim to expand the reach of emerging Asian consumer electronics companies such as Samsung, Xiaomi, Oppo, and Vivo by utilizing targeted online advertising. We hope to use the power of big data to create a model that can swiftly and efficiently target consumers who have non-positive emotions towards brand competitors such as Apple and Google. We believe that marketing to this subset group will lead to brand switching and greater brand awareness while also creating life-long customers who will often need upgrades, new accessories, and repairs.
 
 Our presentation, where we analyze our dataset can be found at: ["Consumer Sentiment Analysis"](Presentation.pdf)
 
 ## Business Problem
 
-Advertisements are often not tailored to a consumers wants and needs. This leads to marketing spend waste and inefficiencies by missing high ROI audience for the product. A Proxima estimate estimates $37 billion of worldwide marketing budgets are being wasted on poor digital performance a year. We aim to help reduce marketing spend waste by targeting consumers who have non-positive emotions toward brand competitors. 
+Advertisements are often not tailored to a consumers wants and needs. This leads to marketing spend waste and inefficiencies by missing high ROI audience for the product. A Proxima estimate estimates $37 billion of worldwide marketing budgets are being wasted on poor digital performance a year. It’s essential to understand the feelings of the customers. By understanding these sentiments, a company can make data-driven decisions and target digital advertising to consumers with non-positive feelings toward competitor brands. We aim to help reduce marketing spend waste by targeting consumers who have non-positive emotions toward brand competitors. 
 
 ## Data Understanding 
 
@@ -24,12 +24,12 @@ Our model only identified 49% of positive emotion tweets. We believe that the im
 ### Non-Positive Emotion Tweet Top Words
 ![Non-Positive Emotion Tweet Words](Images/new_non_positive.png)
 
-The visualization above shows the most common word in non-positive emotion tweets.
+The visualization above shows the most common words in non-positive emotion tweets. As you can see, the most common words in non-positive emotion tweets are store, new, social, circle, network, and app.
 
 ### Non-Positive Emotion Tweet WordCloud
 ![Non-Positive Emotion Tweet WordCloud](Images/new_non_pos_word_cloud1.png)
 
-The visualization above shows the most common word in non-positive emotion tweets.
+The visualization above shows the most common words in non-positive emotion tweets, displayed in a Wordcloud.
 
 
 ## Next Steps
@@ -48,4 +48,3 @@ Our model ExtraTreesClassifier is a tool that helps to:
 * Tailor online advertisements to those consumers efficiently
 
 Our model was highly effective at identifying non-positive emotion tweets and found 85% of actual non-positive tweets when tested against unseen data. The model also had an overall acuracy score of 73%, meaning the model correctly labeled the emotion in 73% of all tweets in the unseen data set. The model identified 49% of all actual positive emotion tweets. 
-
