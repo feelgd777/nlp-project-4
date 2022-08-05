@@ -8,6 +8,7 @@ Our presentation, where we analyze our dataset can be found at: ["Consumer Senti
 
 ## Business Problem
 
+Advertisements are often not tailored to a consumers wants and needs. This leads to marketing spend waste and inefficiencies by missing high ROI audience for the product. A Proxima estimate estimates $37 billion of worldwide marketing budgets are being wasted on poor digital performance a year. We aim to help reduce marketing spend waste by targeting consumers who have non-positive emotions toward brand competitors. 
 
 ## Data Understanding 
 
