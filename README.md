@@ -17,7 +17,7 @@ Our presentation, where we analyze our dataset can be found at: ["Consumer Senti
 
 ![Non-Positive Emotion Tweet Words](Images/new_non_positive.png)
 
-![Non-Positive Emotion Tweet WordCloud](Images/new_non_pos_word_cloud.png)
+![Non-Positive Emotion Tweet WordCloud](Images/new_non_pos_word_cloud1.png)
 
 
 ## Next Steps
