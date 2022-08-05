@@ -14,7 +14,7 @@
 
 ![Non-Positive Emotion Tweet Words](Images/new_non_positive.png)
 
-![Non-Positive Emotion Tweet WordCloud](Images/new_non_pos_word_map3.png)
+![Non-Positive Emotion Tweet WordCloud](Images/new_non_pos_word_cloud.png)
 
 
 ## Next Steps
